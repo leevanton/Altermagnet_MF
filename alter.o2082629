@@ -1,0 +1,1270 @@
+[2024-02-29 19:38:54][INFO][2082629.admin1] In prologue, JOB_ID is 2082629.admin1
+[2024-02-29 19:38:54][INFO][2082629.admin1] In prologue, the pbs_server_name is admin1.
+admin1
+[2024-02-29 19:41:44][INFO][2082629.admin1] ########################  Job 2082629.admin1 start to execute pre.sh!   ##########################
+[2024-02-29 19:41:44][INFO][2082629.admin1] Goldenable & storageenable both are false, job ran without making reserve!
+Job starts at Thu Feb 29 19:38:56 CST 2024
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 26 times iteration and 11.435959339141846 seconds
+mu = 0.7536829986192006, dm = 1.5773694408807097e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 7.075154066085815 seconds
+mu = 0.7536829986192006, dm = 1.588993539301067e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 8.901275634765625 seconds
+mu = 0.7536816870117024, dm = 1.854308769477977e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0909090909090908, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 7.013127088546753 seconds
+mu = 0.7536816870117024, dm = 1.9232996724395017e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 6.1728150844573975 seconds
+mu = 0.7536816870117024, dm = 1.8950108274344677e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.1515151515151516, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 7.346768140792847 seconds
+mu = 0.7536816870117024, dm = 1.7774294469673922e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.1818181818181819, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 7.612750768661499 seconds
+mu = 0.7536816870117024, dm = 1.8001952589007166e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2121212121212122, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 7.6387529373168945 seconds
+mu = 0.7536816870117024, dm = 1.8097237971157936e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2424242424242424, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 19 times iteration and 8.378015756607056 seconds
+mu = 0.7536816870117024, dm = 1.807591751965096e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2727272727272727, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 8.856440544128418 seconds
+mu = 0.7536802187943537, dm = 2.012102656864063e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 8.570822954177856 seconds
+mu = 0.7536785444223715, dm = 2.2593415207016337e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 10.312519788742065 seconds
+mu = 0.7536785444223715, dm = 2.2320119589710215e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 25 times iteration and 10.374431848526001 seconds
+mu = 0.7536785444223715, dm = 2.2262164332730364e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 25 times iteration and 10.794692754745483 seconds
+mu = 0.7536785444223715, dm = 2.19475406196336e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 11.845602035522461 seconds
+mu = 0.7536785444223715, dm = 2.2305775185172967e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4848484848484849, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 25 times iteration and 10.13753342628479 seconds
+mu = 0.7536768226807433, dm = 2.5134927585627984e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5151515151515151, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 28 times iteration and 11.958096504211426 seconds
+mu = 0.7536757465922257, dm = 2.669690780099711e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 9.931302785873413 seconds
+mu = 0.7536757465922257, dm = 3.981508982020114e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 11.566107273101807 seconds
+mu = 0.7536757465922257, dm = 3.986045691183665e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 11.357438087463379 seconds
+mu = 0.7536770378984469, dm = 4.149718360130784e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.6363636363636362, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 13.609217882156372 seconds
+mu = 0.7536802661639999, dm = 4.463306330300438e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.6666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 34 times iteration and 14.111015796661377 seconds
+mu = 0.7536819879056282, dm = 4.626439176463905e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Traceback (most recent call last):
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+Traceback (most recent call last):
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+  File "/public/home/wtli/workplace/Altermagnet_MF_FULL/./SelfConsistent_MF/main.py", line 49, in <module>
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+    raise Exception("Beyond maximum iteration times!")
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+Exception: Beyond maximum iteration times!
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7272727272727273, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 28 times iteration and 12.110021114349365 seconds
+mu = 0.7536975198590493, dm = 9.063264334527989e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7575757575757576, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 12.02664852142334 seconds
+mu = 0.7537064677373462, dm = 9.911498974902021e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7878787878787878, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 30 times iteration and 13.050546884536743 seconds
+mu = 0.7537114872788299, dm = 0.00010416649448988344
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 34 times iteration and 15.06309986114502 seconds
+mu = 0.7537184709887202, dm = 0.00011025588989502934
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 34 times iteration and 14.50303840637207 seconds
+mu = 0.7537219628436653, dm = 0.00011313632557849739
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 31 times iteration and 13.458325862884521 seconds
+mu = 0.753734484355153, dm = 0.0001645057618072166
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9090909090909092, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 33 times iteration and 14.411328077316284 seconds
+mu = 0.7537078150856396, dm = 0.00017618105867321876
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 40 times iteration and 17.782145977020264 seconds
+mu = 0.7536952668153554, dm = 0.00018083080399796924
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 41 times iteration and 18.48818564414978 seconds
+mu = 0.7536657253053001, dm = 0.0001934527555126075
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 52 times iteration and 22.827685356140137 seconds
+mu = 0.7536404390451389, dm = 0.00020372261093470244
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 61 times iteration and 27.605064153671265 seconds
+mu = 0.7536312217498164, dm = 0.00022335580480982746
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 78 times iteration and 34.45886301994324 seconds
+mu = 0.7536435628412808, dm = 0.0002389542582430249
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.090909090909091, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 80 times iteration and 36.41778779029846 seconds
+mu = 0.7537259783906931, dm = 0.0003589958532079608
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 6.344357490539551 seconds
+mu = 0.7535128483908871, dm = 0.0013165340637636366
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.1515151515151514, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 65 times iteration and 29.860784769058228 seconds
+mu = 0.7533030991164378, dm = 0.0018105419907936127
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.1818181818181817, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 51 times iteration and 14.20386528968811 seconds
+mu = 0.753328388579167, dm = 0.0024414154138481877
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.212121212121212, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 6.158825874328613 seconds
+mu = 0.7535470427011589, dm = 0.0034109276308159214
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.242424242424242, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 33 times iteration and 15.003380537033081 seconds
+mu = 0.7534486736319002, dm = 0.004291571700993148
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.2727272727272725, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 338 times iteration and 131.35456490516663 seconds
+mu = 0.6927834429573264, dm = 0.17714623272326968
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3030303030303028, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 60 times iteration and 22.595582723617554 seconds
+mu = 0.6730917039454043, dm = 0.1939286031999629
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 39 times iteration and 16.154852151870728 seconds
+mu = 0.6588867742770239, dm = 0.20157018522242198
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 38 times iteration and 13.180465459823608 seconds
+mu = 0.6431764048524734, dm = 0.20946310664914827
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 33 times iteration and 13.528481483459473 seconds
+mu = 0.626585053863675, dm = 0.21753047686707516
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 11.166810035705566 seconds
+mu = 0.609629939342389, dm = 0.22543875646002143
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 35 times iteration and 11.799299716949463 seconds
+mu = 0.5925841149605513, dm = 0.23309411983572514
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.484848484848485, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 31 times iteration and 11.407749891281128 seconds
+mu = 0.5743662826243076, dm = 0.2407408129242472
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.515151515151515, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 28 times iteration and 13.185827255249023 seconds
+mu = 0.5561976198070989, dm = 0.24792276532015195
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 11.378578424453735 seconds
+mu = 0.5384616836492943, dm = 0.25466353924149415
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 10.34564471244812 seconds
+mu = 0.5208801610419024, dm = 0.2602387543292348
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6060606060606064, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 522 times iteration and 325.06127738952637 seconds
+mu = 0.5042335341547867, dm = 0.26511847104493913
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6363636363636367, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 13.753265380859375 seconds
+mu = 0.48687262864093234, dm = 0.27004701394144387
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 4.932259798049927 seconds
+mu = 0.4880799526527172, dm = 0.2734800952542352
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6969696969696972, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 6.464447259902954 seconds
+mu = 0.5040555026041725, dm = 0.27597821924770105
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.7272727272727275, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 5.176800727844238 seconds
+mu = 0.5115301112244539, dm = 0.2784386436557289
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.757575757575758, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 6.628520250320435 seconds
+mu = 0.5341636456118141, dm = 0.28086226147886884
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.787878787878788, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 5.665852069854736 seconds
+mu = 0.5474327717802602, dm = 0.28324921350824184
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 5.1891028881073 seconds
+mu = 0.5639446376339456, dm = 0.2856015319472964
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 4.320488691329956 seconds
+mu = 0.5770179551413296, dm = 0.2879192672518003
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 3.3166167736053467 seconds
+mu = 0.5911329950876898, dm = 0.29020311268760024
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.909090909090909, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 2.4815726280212402 seconds
+mu = 0.5726946561192972, dm = 0.2924537407671878
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 2.9742090702056885 seconds
+mu = 0.5537222833090929, dm = 0.2946718035250223
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 2.9664814472198486 seconds
+mu = 0.5294091044357105, dm = 0.2968579335772024
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.867079496383667 seconds
+mu = 0.5064865269160459, dm = 0.2990121273672536
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.8448100090026855 seconds
+mu = 0.4866824192050385, dm = 0.3011362523876169
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.924638271331787 seconds
+mu = 0.46631731616163574, dm = 0.3032302341794558
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.090909090909091, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.8058688640594482 seconds
+mu = 0.4440257816540124, dm = 0.30529463580156013
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.860851526260376 seconds
+mu = 0.4228571265717682, dm = 0.3073300060315062
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.1515151515151514, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.7836012840270996 seconds
+mu = 0.40354872454581436, dm = 0.3093368790266568
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.1818181818181817, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 2.8966355323791504 seconds
+mu = 0.3832097446572863, dm = 0.3113157749340758
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.2121212121212124, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.9974279403686523 seconds
+mu = 0.36163504675870306, dm = 0.3132665658057535
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.2424242424242427, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.6482527256011963 seconds
+mu = 0.3422651905660321, dm = 0.3151910494787552
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.272727272727273, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.1201417446136475 seconds
+mu = 0.3214172116081091, dm = 0.317089037230814
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 3.667630195617676 seconds
+mu = 0.3004561995382268, dm = 0.3189609974147961
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.8466036319732666 seconds
+mu = 0.28041873533034845, dm = 0.32080738812083903
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.5983574390411377 seconds
+mu = 0.25995929046563837, dm = 0.3226286563660843
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.7037196159362793 seconds
+mu = 0.2406225018924203, dm = 0.32442523848929516
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 2.6863040924072266 seconds
+mu = 0.22036013405017807, dm = 0.3261975605264871
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 3.073058605194092 seconds
+mu = 0.20038103970926224, dm = 0.32794603856703847
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.484848484848485, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.6754980087280273 seconds
+mu = 0.1804337184306315, dm = 0.3296704797992259
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.515151515151515, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.8901209831237793 seconds
+mu = 0.15978273303337676, dm = 0.3313725123030833
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.5677578449249268 seconds
+mu = 0.14074302665152005, dm = 0.33305189238354854
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.5366504192352295 seconds
+mu = 0.12081439963439233, dm = 0.33470899826290024
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.616804361343384 seconds
+mu = 0.1010155434918042, dm = 0.33634420113371377
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.6363636363636362, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.505831718444824 seconds
+mu = 0.08133604920184645, dm = 0.3379578640394346
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 3.3796534538269043 seconds
+mu = 0.06060721306231942, dm = 0.33955034212516694
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.6969696969696972, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 2.6239068508148193 seconds
+mu = 0.04231290888763328, dm = 0.3411219828803032
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.7272727272727275, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.4294421672821045 seconds
+mu = 0.021700856124816426, dm = 0.3426725173714265
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.757575757575758, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.437791347503662 seconds
+mu = 0.0019182452301924613, dm = 0.34420352985790625
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.787878787878788, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.5317888259887695 seconds
+mu = -0.017315927925302455, dm = 0.345714703996713
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.431671619415283 seconds
+mu = -0.03799420344087012, dm = 0.3472063571259435
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.4619789123535156 seconds
+mu = -0.05849121419017361, dm = 0.3486788018224173
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.4573311805725098 seconds
+mu = -0.07734077725539329, dm = 0.3501323442645674
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.909090909090909, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.711819648742676 seconds
+mu = -0.09778440322187326, dm = 0.3515672844084169
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.4205193519592285 seconds
+mu = -0.11785639537473708, dm = 0.35298391616157504
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 2.338831901550293 seconds
+mu = -0.1389703309005889, dm = 0.3543825275505501
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 4.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 11 times iteration and 2.1394917964935303 seconds
+mu = -0.15816081231868973, dm = 0.3557628251579456
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+Job started at Thu Feb 29 19:38:56 CST 2024
+Job ends at Thu Feb 29 20:20:50 CST 2024

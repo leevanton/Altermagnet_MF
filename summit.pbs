@@ -1,0 +1,24 @@
+#PBS -l nodes=3:ppn=32
+#PBS -N alter
+#PBS -q batch
+#PBS -j oe
+#PBS -l walltime=9600:00:00
+
+source /public/home/wtli/miniconda3/bin/activate intelmpi
+#export OMPI_MCA_btl=^openib
+module load mpi/intelmpi/2018.4.274
+
+# run the job
+cd $PBS_O_WORKDIR
+NP=`cat $PBS_NODEFILE | wc -l`
+
+START_TIME=`date`
+echo Job starts at $START_TIME
+
+python run.py $NP
+
+END_TIME=`date`
+echo Job started at $START_TIME
+echo Job ends at $END_TIME
+conda deactivate
+conda deactivate

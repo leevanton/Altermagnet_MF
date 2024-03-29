@@ -1,0 +1,508 @@
+[2024-02-29 15:54:16][INFO][2082609.admin1] In prologue, JOB_ID is 2082609.admin1
+[2024-02-29 15:54:16][INFO][2082609.admin1] In prologue, the pbs_server_name is admin1.
+admin1
+[2024-02-29 15:57:05][INFO][2082609.admin1] ########################  Job 2082609.admin1 start to execute pre.sh!   ##########################
+[2024-02-29 15:57:05][INFO][2082609.admin1] Goldenable & storageenable both are false, job ran without making reserve!
+Job starts at Thu Feb 29 15:54:18 CST 2024
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 23.579133987426758 seconds
+mu = 0.7536825679421129, dm = 1.8139863262708987e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 13.304397106170654 seconds
+mu = 0.7536816870117036, dm = 1.835003215597262e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 13.769272565841675 seconds
+mu = 0.7536816870117036, dm = 1.8522423891058464e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.0909090909090908, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 13.317486047744751 seconds
+mu = 0.7536816870117036, dm = 1.9025615335849e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 14.554698705673218 seconds
+mu = 0.7536808060812944, dm = 1.9389511462242466e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.1515151515151516, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 14.518927097320557 seconds
+mu = 0.7536808060812944, dm = 2.0056132823440837e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.1818181818181819, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 14.549174785614014 seconds
+mu = 0.753680218794355, dm = 2.0583196714530362e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2121212121212122, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 16.13304591178894 seconds
+mu = 0.753679979207063, dm = 2.0788503439231802e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2424242424242424, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 19 times iteration and 15.733590841293335 seconds
+mu = 0.753679405293187, dm = 2.1759099265681154e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.2727272727272727, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 16.78801202774048 seconds
+mu = 0.753679405293187, dm = 2.2344110047663024e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 22 times iteration and 17.895469903945923 seconds
+mu = 0.753679405293187, dm = 2.2388220875699227e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 22 times iteration and 18.316688537597656 seconds
+mu = 0.7536785444223728, dm = 2.3321906858532e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 23 times iteration and 19.07113552093506 seconds
+mu = 0.7536776835515586, dm = 2.399310441294646e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 19.102757692337036 seconds
+mu = 0.7536776835515586, dm = 2.4467178660030673e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 26 times iteration and 21.861837148666382 seconds
+mu = 0.7536768226807444, dm = 2.5449371145656617e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 26 times iteration and 21.917361736297607 seconds
+mu = 0.7536759618099302, dm = 2.632914542539039e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.4848484848484849, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 22.289132118225098 seconds
+mu = 0.7536751009391162, dm = 2.7383285390315013e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5151515151515151, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 26 times iteration and 21.115357637405396 seconds
+mu = 0.7536718726735631, dm = 3.5574755323020765e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 20.010233879089355 seconds
+mu = 0.7536744552860055, dm = 3.819536039540629e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 26 times iteration and 21.95370864868164 seconds
+mu = 0.7536757465922268, dm = 3.986651786769897e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 27 times iteration and 21.57216167449951 seconds
+mu = 0.7536785444223726, dm = 4.2921920492229434e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.6363636363636362, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 30 times iteration and 25.22659945487976 seconds
+mu = 0.753680266164001, dm = 4.470350768505357e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.6666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 26.72655153274536 seconds
+mu = 0.753680266164001, dm = 4.4717930648224634e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 501 times iteration and 403.0773046016693 seconds
+mu = 0.7536784364535281, dm = 4.190865146143365e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7272727272727273, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 37 times iteration and 31.62344789505005 seconds
+mu = 0.7536860770419966, dm = 5.132314893187302e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7575757575757576, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 36 times iteration and 30.560136079788208 seconds
+mu = 0.7536957739315779, dm = 8.239283039152912e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.7878787878787878, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 40 times iteration and 34.33909034729004 seconds
+mu = 0.7536983928227868, dm = 8.599927641116003e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 46 times iteration and 39.877081632614136 seconds
+mu = 0.7537025394005343, dm = 8.99334371492148e-05
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 34 times iteration and 29.9989275932312 seconds
+mu = 0.7537426083229039, dm = 0.0001617311683544987
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 37 times iteration and 31.744291067123413 seconds
+mu = 0.7537246342773031, dm = 0.00016926241418697605
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9090909090909092, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 40 times iteration and 34.29918336868286 seconds
+mu = 0.7537041743306051, dm = 0.00017782180486052593
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 43 times iteration and 38.86921977996826 seconds
+mu = 0.7536813257866966, dm = 0.00018752593632526308
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 1.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 48 times iteration and 42.24295425415039 seconds
+mu = 0.7536550266570377, dm = 0.00019839777062405362
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 50 times iteration and 43.70664834976196 seconds
+mu = 0.7536252052830874, dm = 0.00021893390037682408
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 55 times iteration and 48.251463651657104 seconds
+mu = 0.7536427465646034, dm = 0.0002420807888165148
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 72 times iteration and 61.17798137664795 seconds
+mu = 0.7536572647559776, dm = 0.00026029325077079127
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.090909090909091, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 70 times iteration and 63.472641944885254 seconds
+mu = 0.7537368589589379, dm = 0.0003782802649388943
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 20 times iteration and 17.804844856262207 seconds
+mu = 0.7535094951546455, dm = 0.0013218233917026002
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.1515151515151514, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 71 times iteration and 66.10100269317627 seconds
+mu = 0.7533030991164396, dm = 0.0018105415344037736
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.1818181818181817, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 51 times iteration and 27.621645212173462 seconds
+mu = 0.7533283885791658, dm = 0.0024414154064507252
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.212121212121212, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 11.523074865341187 seconds
+mu = 0.7535470427011607, dm = 0.0034109276286783214
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.242424242424242, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 33 times iteration and 29.47557783126831 seconds
+mu = 0.7534486736319005, dm = 0.0042915717007457
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.2727272727272725, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 337 times iteration and 261.82504773139954 seconds
+mu = 0.692784442957326, dm = 0.17714606854489806
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3030303030303028, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 60 times iteration and 45.492477893829346 seconds
+mu = 0.6730917039454043, dm = 0.19392833422350667
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 26.34825611114502 seconds
+mu = 0.6589174487669882, dm = 0.20154397638080768
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 38 times iteration and 26.190218925476074 seconds
+mu = 0.6431764048524737, dm = 0.20946311519940397
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 33 times iteration and 24.91319513320923 seconds
+mu = 0.626585053863674, dm = 0.2175304647525486
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 21.97200870513916 seconds
+mu = 0.6096299393423891, dm = 0.22543875819554626
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 35 times iteration and 23.27229118347168 seconds
+mu = 0.5925841149605507, dm = 0.23309412001098523
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.484848484848485, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 31 times iteration and 22.232635021209717 seconds
+mu = 0.5743662826243073, dm = 0.24074081523749055
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.515151515151515, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 511 times iteration and 531.5280869007111 seconds
+mu = 0.5561970907528004, dm = 0.2479230886998274
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 32 times iteration and 20.540963888168335 seconds
+mu = 0.5384616836492954, dm = 0.2546635392432268
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 36 times iteration and 40.03631114959717 seconds
+mu = 0.5208200042551347, dm = 0.26026216515533906
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6060606060606064, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 23 times iteration and 27.456864595413208 seconds
+mu = 0.504294207719673, dm = 0.26509512231405286
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6363636363636367, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 24 times iteration and 26.250471353530884 seconds
+mu = 0.4868726286409329, dm = 0.2700470071412045
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 18 times iteration and 10.915440320968628 seconds
+mu = 0.48807995265272086, dm = 0.27348009524935435
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.6969696969696972, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 12.712123155593872 seconds
+mu = 0.5040555026041741, dm = 0.2759782192476962
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.7272727272727275, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 9.337727546691895 seconds
+mu = 0.5115301112244532, dm = 0.2784386436557287
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.757575757575758, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 17 times iteration and 12.32826542854309 seconds
+mu = 0.5341636456118141, dm = 0.28086226147886895
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.787878787878788, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 10.257851839065552 seconds
+mu = 0.5474327717802528, dm = 0.2832492135082418
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 9.777235984802246 seconds
+mu = 0.5639446376339456, dm = 0.2856015319472964
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 7.672118186950684 seconds
+mu = 0.5770179551412851, dm = 0.2879192672518003
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 6.257558345794678 seconds
+mu = 0.5911329950876898, dm = 0.29020311268760035
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.909090909090909, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 5.361886739730835 seconds
+mu = 0.5726946561192972, dm = 0.29245374076718755
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 5.1227312088012695 seconds
+mu = 0.5537222833090936, dm = 0.2946718035250223
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 2.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 16 times iteration and 4.880237579345703 seconds
+mu = 0.5294091044357112, dm = 0.29685793357720247
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 6.436999082565308 seconds
+mu = 0.5064865269160459, dm = 0.2990121273672537
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.606964111328125 seconds
+mu = 0.4866824192050393, dm = 0.3011362523876168
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.0606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.6133105754852295 seconds
+mu = 0.46631731616163574, dm = 0.30323023417945577
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.090909090909091, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.546904802322388 seconds
+mu = 0.4440257816540124, dm = 0.3052946358015602
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.121212121212121, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.7872302532196045 seconds
+mu = 0.4228571265717682, dm = 0.3073300060315062
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.1515151515151514, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.547658920288086 seconds
+mu = 0.40354872454581403, dm = 0.3093368790266567
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.1818181818181817, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 15 times iteration and 4.797479629516602 seconds
+mu = 0.38320974465728674, dm = 0.3113157749340759
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.2121212121212124, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.609017372131348 seconds
+mu = 0.3616350467587026, dm = 0.31326656580575357
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.2424242424242427, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.550705671310425 seconds
+mu = 0.3422651905660321, dm = 0.3151910494787551
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.272727272727273, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.377666473388672 seconds
+mu = 0.3214172116081091, dm = 0.3170890372308137
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.303030303030303, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.369801044464111 seconds
+mu = 0.30045619953822744, dm = 0.3189609974147961
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.3333333333333335, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.553173065185547 seconds
+mu = 0.28041873533034845, dm = 0.320807388120839
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.3636363636363638, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.321940183639526 seconds
+mu = 0.25995929046563804, dm = 0.3226286563660842
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 5.647176742553711 seconds
+mu = 0.24062250189241974, dm = 0.3244252384892952
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.4242424242424243, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.5028839111328125 seconds
+mu = 0.22036013405017862, dm = 0.32619756052648696
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.4545454545454546, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 14 times iteration and 4.372840404510498 seconds
+mu = 0.20038103970926158, dm = 0.3279460385670384
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.484848484848485, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 4.218337774276733 seconds
+mu = 0.1804337184306315, dm = 0.3296704797992259
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.515151515151515, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 4.113707780838013 seconds
+mu = 0.15978273303337676, dm = 0.3313725123030832
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.5454545454545454, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 3.9548845291137695 seconds
+mu = 0.14074302665152005, dm = 0.33305189238354865
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.5757575757575757, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 3.999189853668213 seconds
+mu = 0.12081439963439289, dm = 0.3347089982629003
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.606060606060606, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 3.9115512371063232 seconds
+mu = 0.1010155434918042, dm = 0.3363442011337139
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.6363636363636362, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 4.820007801055908 seconds
+mu = 0.08133604920184645, dm = 0.33795786403943456
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.666666666666667, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 4.33089017868042 seconds
+mu = 0.06060721306231942, dm = 0.3395503421251669
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.6969696969696972, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 13 times iteration and 4.2187275886535645 seconds
+mu = 0.04231290888763328, dm = 0.34112198288030315
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.7272727272727275, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.9646480083465576 seconds
+mu = 0.02170085612481687, dm = 0.3426725173714265
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.757575757575758, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.8252573013305664 seconds
+mu = 0.0019182452301929054, dm = 0.34420352985790625
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.787878787878788, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.7965686321258545 seconds
+mu = -0.017315927925302343, dm = 0.3457147039967131
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.8181818181818183, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.955430030822754 seconds
+mu = -0.03799420344087012, dm = 0.3472063571259434
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.8484848484848486, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.83235502243042 seconds
+mu = -0.05849121419017417, dm = 0.34867880182241723
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.878787878787879, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.8103768825531006 seconds
+mu = -0.07734077725539379, dm = 0.35013234426456724
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.909090909090909, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.672964096069336 seconds
+mu = -0.09778440322187326, dm = 0.3515672844084171
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.9393939393939394, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.856426477432251 seconds
+mu = -0.11785639537473758, dm = 0.35298391616157504
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 3.9696969696969697, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 12 times iteration and 3.7164762020111084 seconds
+mu = -0.13897033090058847, dm = 0.35438252755055
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+
+>>>>>>>>>>>>>>>>  Start calculating for U = 4.0, tprime = 0.3  <<<<<<<<<<<<<<<<<
+converged after 11 times iteration and 3.6155145168304443 seconds
+mu = -0.15816081231869028, dm = 0.3557628251579458
+>>>>>>>>>>>>>>>>>>>>>>>  Iteration finished!  <<<<<<<<<<<<<<<<<<<<<<<<
+Job started at Thu Feb 29 15:54:18 CST 2024
+Job ends at Thu Feb 29 16:45:27 CST 2024
