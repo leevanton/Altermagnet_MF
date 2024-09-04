@@ -4,14 +4,11 @@ from const import *
 
 
 def Generate_1BZ():
-    BZ = np.zeros([L, L, 2], dtype='double')
-    k0x = 0
-    k0y = -pi/a
-    dk = sqrt(2)*pi/L
-    for i in range(L):
-        for j in range(L):
-            BZ[i, j, 0] = k0x+i*dk
-            BZ[i, j, 1] = k0y+j*dk
+    K1 = np.array([0, -pi/a])
+    K2 = np.array([-pi/a, 0])
+    Kvec = np.array([pi/a, pi/a])
+    edge = np.linspace(K1, K2, L)
+    BZ = np.array([np.linspace(edge[i], edge[i]+Kvec, L) for i in range(L)])
 
     return BZ.reshape(L2, 2)
 
