@@ -10,10 +10,10 @@ procs = eval(argv[1])
 N = 30
 delta = 0.001  # 加入一个微扰，防止停留在0上
 
-# tprime_list=np.linspace(0.1,0.4,N)
-# U_list=np.linspace(0,5,N)
-tprime_list = [0.3]
-U_list = np.linspace(1, 4, 100)
+tprime_list = np.linspace(0.1, 0.4, N)
+U_list = np.linspace(0, 5, N)
+# tprime_list = [0.3]
+# U_list = np.linspace(1, 4, 100)
 dm0 = 0.1
 recycle_path = "./recycle.txt"
 
@@ -29,8 +29,8 @@ fp.close()
 for U in U_list:
     for tprime in tprime_list:
         print()
-        print(f'>>>>>>>>>>>>>>>>  Start calculating for U = {
-              U}, tprime = {tprime}  <<<<<<<<<<<<<<<<<')
+        print(f'>> >>>>>>>>>>>>>> Start calculating for U={
+              U}, tprime={tprime} << << << << << << << << <')
         stdout.flush()
         # exit_code = os.system(f"mpirun -n {procs} --mca btl '^openib' python {exe_path} {tprime} {U} {dm0+delta}")
         exit_code = os.system(
